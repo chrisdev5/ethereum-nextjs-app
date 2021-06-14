@@ -1,14 +1,14 @@
 ## Installation
 
 ```
-git clone https://github.com/zachgoll/ethereum-nextjs-app.git
+git clone https://github.com/chrisdev5/ethereum-nextjs-app.git
 cd ethereum-nextjs-app
 npm install
 ```
 
 ## Setting env variables
 
-Since we are working with sensitive account information, we need to set some environment variables.  Create a new `.env` file and place the following in it: 
+Since we are working with sensitive account information, we need to set some environment variables. Create a new `.env` file and place the following in it:
 
 ```
 // .env
